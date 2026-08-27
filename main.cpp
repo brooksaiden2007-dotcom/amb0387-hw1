@@ -15,7 +15,7 @@ int main()
 	Player2.val1(27);
 	Player2.val2(39);
 	Player3.val1(43);
-	Player4.val2(54);
+	Player3.val2(54);
 	//First Game
 	cout<<"First Game:\n"<<endl;
 	cout<<" Player 1 - "<<Player1.val1()<<endl;
