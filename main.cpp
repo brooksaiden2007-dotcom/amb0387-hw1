@@ -5,5 +5,5 @@ using namespace std;
 
 int main()
 {
-	cout<<"Score 1: <<"<<endl;
+	cout<<"Score 1: <<"<<val1<<endl;
 }
