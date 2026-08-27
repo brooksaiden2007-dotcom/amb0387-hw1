@@ -11,11 +11,11 @@ int main()
 	Starter_Object Player3;
 	//scores of players
 	Player1.val1(67);
-	Player1.val2(32);
-	Player2.val1(27);
-	Player2.val2(39);
-	Player3.val1(43);
-	Player3.val2(54);
+	Player1.val2(60);
+	Player2.val1(60);
+	Player2.val2(70);
+	Player3.val1(70);
+	Player3.val2(67);
 	//First Game
 	cout<<"First Game:"<<endl;
 	cout<<" Player 1 - "<<Player1.val1()<<" points"<<endl;
