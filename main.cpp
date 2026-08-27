@@ -18,12 +18,12 @@ int main()
 	Player3.val2(54);
 	//First Game
 	cout<<"First Game:"<<endl;
-	cout<<" Player 1 - "<<Player1.val1()<<"points"<<endl;
-	cout<<" Player 2 - "<<Player2.val1()<<"points"<<endl;
-	cout<<" Player 3 - "<<Player3.val1()<<"points"<<endl;
+	cout<<" Player 1 - "<<Player1.val1()<<" points"<<endl;
+	cout<<" Player 2 - "<<Player2.val1()<<" points"<<endl;
+	cout<<" Player 3 - "<<Player3.val1()<<" points"<<endl;
 	//Second Game
 	cout<<"Second Game:"<<endl;
-	cout<<" Player 1 - "<<Player1.val2()<<"points"<<endl;
-	cout<<" Player 2 - "<<Player2.val2()<<"points"<<endl;
-	cout<<" Player 3 - "<<Player3.val2()<<"points"<<endl;
+	cout<<" Player 1 - "<<Player1.val2()<<" points"<<endl;
+	cout<<" Player 2 - "<<Player2.val2()<<" points"<<endl;
+	cout<<" Player 3 - "<<Player3.val2()<<" points"<<endl;
 }
